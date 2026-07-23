@@ -8,7 +8,7 @@
   </picture>
 </p>
 
-## Hey, I'm Luqman
+## Hey👋, I'm Luqman
 
 I am **Luqman Zahid Abdurrokhman**, a **Cyber Security Specialist** based in Sidoarjo, Indonesia. 
 
